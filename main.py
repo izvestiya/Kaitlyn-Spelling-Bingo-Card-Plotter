@@ -1,31 +1,38 @@
 # Kaitlyn Spelling Bingo Card Plotter
-# (C) 2026 Izvestiya, CC-ND-BY-SA 4.0
+# (C) 2026 Izvestiya, CC-BY-SA 4.0
 
 import utl
 import clusters as cl
+import formatter as fmt
 import argparse
+import sys
 
 # Command-line argument parsing
 parser = argparse.ArgumentParser()
 parser.add_argument('cluster', help='cluster file to load')
+parser.add_argument('--format', default='github', help='output format')
+parser.add_argument('--no-pretty', help='Disable decorated output and statistics, and just print the formatted table. Use this if you want to pipe the output to another program or file.', action='store_true', default=False)
 args = parser.parse_args()
 
 # Main execution
 if __name__ == "__main__":
-    cluster_name = args.cluster
+    cluster_name = args.cluster.lower()
     cluster = cl.get_cluster(cluster_name)
 
-    utl.separator(nl = False)
-    print("Kaitlyn Spelling Bingo Card Plotter")
-    print("(C) 2026 Izvestiya, CC-ND-BY-SA 4.0")
-    utl.separator()
-
-    print("Loaded cluster: ", cluster_name)
-    utl.separator()
+    if not args.no_pretty:
+        utl.separator(nl = False)
+        print("Loaded cluster: ", cluster["pretty"] if "pretty" in cluster else cluster_name.capitalize() + " (no pretty name provided)")
+        utl.separator()
 
     names, itr, count = cl.get_combos(cluster)
+    formatted_table = fmt.format(names, cluster, format = args.format)
 
-    print("Generated names:")
-    print(", ".join(names))
-    utl.separator()
-    print(f"Total names generated: {count}")
+    if not args.no_pretty:
+        print("Generated names:")
+        print()
+    print(formatted_table)
+
+    if not args.no_pretty:
+        utl.separator()
+        print(f"Total names generated: {count}")
+        utl.separator()
