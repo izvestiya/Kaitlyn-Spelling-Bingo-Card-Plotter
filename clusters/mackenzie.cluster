@@ -1,8 +1,8 @@
 {
-    "name": "m[0][1][2]n[3][4]",
+    "pretty": "Mackenzie",
+    "name": "m[0]k[1]n[2][3]",
     "clusters": [
-        ["a", "ae", ""],
-        ["k", "c", "ck"],
+        ["a", "ac", "ae", "aec", "c"],
         ["e", "i"],
         ["z", "zz", "s", "ss"],
         ["ie", "y", "ee", "i", "ey", "ye"]
