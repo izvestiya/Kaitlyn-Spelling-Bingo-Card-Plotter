@@ -1,0 +1,9 @@
+{
+    "name": "n[0]t[1][2][3]",
+    "clusters": [
+        ["a", "ah"],
+        ["a", "ah"],
+        ["sh", "ch", "sch", "sj", "zh", "tch"],
+        ["a", "ah", "ia", "iah", "ya", "yah"]
+    ]
+}

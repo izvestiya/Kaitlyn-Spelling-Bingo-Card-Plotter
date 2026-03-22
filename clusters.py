@@ -1,3 +1,6 @@
+# Kaitlyn Spelling Bingo Card Plotter
+# (C) 2026 Izvestiya, CC-ND-BY-SA 4.0
+
 import json
 import os
 from itertools import product
@@ -7,7 +10,7 @@ def get_cluster(cluster_name):
     with open(os.path.join("clusters", f"{cluster_name}.cluster"), "r") as f:
         return json.load(f)
 
-def get_combos(cluster):
+def get_combos(cluster, dedub = False):
     # Generate all combinations of the letter-swapping arrays
     combos = product(*cluster["clusters"])
 
@@ -20,4 +23,7 @@ def get_combos(cluster):
             result = result.replace(f"[{i}]", part)
         names.append(result)
         itr += 1
-    return names, itr
+    if dedub == True:
+        names = set(names)  # Remove duplicates
+    count = len(names)
+    return names, itr, count
