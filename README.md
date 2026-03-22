@@ -146,7 +146,7 @@ This produces: Sean, Seann, Shaun, Shaunn, Shawn, Shawnn, Saun, Saunn, Sawn, Saw
 | Megan | 48 | `maeghinn` is a Tolkien character |
 | Natasha | 144 | `nahtahschiah` is an incantation |
 | Rebecca | 144 | `ribbicckh` is a keyboard smash |
-| Madison | 360 | `maeddyssynn` is a pharmaceutical company |
+| Madison | 360 | `maeddyssynn` is it a Greek musician or a diagnosis? Do I call an ambulance? |
 | Brittany | 240 | `bryttynni` is a Norse rune |
 | Mackenzie | 240 | `mckinsey` will bill you $500/hr |
 | Hailey | 35 | The only name with some restraint |
