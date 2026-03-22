@@ -72,10 +72,8 @@ Each numbered position has an array of possible substitutions:
 
 ### The Math
 
-The generator takes the Cartesian product of all clusters. Meaning every possible combination of one option from each cluster:
-```
-2 × 5 × 2 × 2 × 2 = 80 unique spellings
-```
+The generator takes the Cartesian product of all clusters. Meaning every possible combination of one option from each cluster: `2 × 5 × 2 × 2 × 2 = 80` unique spellings
+
 
 That's it. No machine learning. No AI. Just `itertools.product` and questionable life choices.
 
