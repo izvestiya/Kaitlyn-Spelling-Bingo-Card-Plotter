@@ -23,7 +23,7 @@ py main.py <cluster> [--format <format>]
 ```
 
 `<cluster>` is the name of a `.cluster` file in the `clusters/` directory, without the extension. `--format` is optional and defaults to `github` (GitHub-flavored markdown table).
-```
+```bash
 py main.py kaitlyn                    # 80 variations, github markdown
 py main.py mackenzie --format grid    # 240 variations, ASCII box table
 py main.py natasha --format csv       # 144 variations, comma separated
