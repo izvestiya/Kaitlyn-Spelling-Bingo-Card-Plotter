@@ -12,6 +12,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('cluster', help='cluster file to load')
 parser.add_argument('--format', default='github', help='output format')
 parser.add_argument('--no-pretty', help='Disable decorated output and statistics, and just print the formatted table. Use this if you want to pipe the output to another program or file.', action='store_true', default=False)
+parser.add_argument('--str-separator', default=', ', help='separator to use when format is set to "string"')
 args = parser.parse_args()
 
 # Main execution
@@ -25,11 +26,12 @@ if __name__ == "__main__":
         utl.separator()
 
     names, itr, count = cl.get_combos(cluster)
-    formatted_table = fmt.format(names, cluster, format = args.format)
+    formatted_table = fmt.format(names, cluster, format = args.format, string_separator = args.str_separator)
 
     if not args.no_pretty:
         print("Generated names:")
         print()
+
     print(formatted_table)
 
     if not args.no_pretty:

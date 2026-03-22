@@ -15,7 +15,7 @@ def extract_rows(pattern, names):
     return rows
 
 
-def format(names, cluster, format = "github"):
+def format(names, cluster, format = "github", string_separator = ", "):
     index_pattern = len(cluster["clusters"][0])
     rows = extract_rows(index_pattern, names)
     
@@ -28,6 +28,8 @@ def format(names, cluster, format = "github"):
         for row in rows:
             csv_data += ",".join(row) + "\n"
         return csv_data
+    elif format.lower() == "str":
+        return string_separator.join(names)
 
     headers = rows[0]
     del rows[0]

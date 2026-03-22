@@ -30,6 +30,14 @@ py main.py natasha --format csv       # 144 variations, comma separated
 py main.py rebecca --format json      # 144 variations, JSON dump
 ```
 
+### Flags
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--format` | `github` | Output format. Supports all tabulate formats, plus `csv`, `json`, and `str`. |
+| `--no-pretty` | `false` | Disables decorative output (separators, stats, cluster info). Useful when piping to a file or another command. |
+| `--str-separator` | `, ` | Separator used when `--format str` is set. Default is comma-space. |
+
 ## How It Works
 
 ### The Template
@@ -175,13 +183,6 @@ For the full list of ~36 supported tabulate formats, see the [tabulate documenta
 |--------|------|-------------|
 | CSV | `--format csv` | Comma-separated. No headers. |
 | JSON | `--format json` | Full dump including cluster metadata. |
-
-### Misc
-
-`--no-pretty` disables the decorative output (separators, stats, cluster info). Useful when piping to a file or another command.
-```
-py main.py kaitlyn > output.md --no-pretty
-```
 
 ## Adding Names
 
