@@ -12,7 +12,7 @@ def get_cluster(cluster_name):
     if not os.path.isfile(cluster_path):
         raise FileNotFoundError(f"Cluster file '{cluster_path}' not found.")
 
-    with open(cluster_path, "r") as f:
+    with open(cluster_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 def get_combos(cluster, dedub = False, capitalize = True):

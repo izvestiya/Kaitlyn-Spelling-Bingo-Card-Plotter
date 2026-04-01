@@ -1,15 +1,19 @@
 # Kaitlyn Spelling Bingo Card Plotter
 # (C) 2026 Izvestiya, CC-BY-SA 4.0
 
+# -*- coding: utf-8 -*-
+
 import utl
 import clusters as cl
 import formatter as fmt
 import argparse
 import sys
 
+sys.stdout.reconfigure(encoding='utf-8')
+
 # Command-line argument parsing
 parser = argparse.ArgumentParser()
-parser.add_argument('cluster', help='cluster file to load')
+parser.add_argument('--cluster', help='cluster file to load')
 parser.add_argument('--format', default='github', help='output format')
 parser.add_argument('--no-pretty', help='Disable decorated output and statistics, and just print the formatted table. Use this if you want to pipe the output to another program or file.', action='store_true', default=False)
 parser.add_argument('--str-separator', default=', ', help='separator to use when format is set to "string"')
