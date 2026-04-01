@@ -1,6 +1,6 @@
 # Kaitlyn Spelling Bingo Card Plotter
 
-There are **3,840 ways** to spell Kaitlyn. We know because we generated all of them.
+There are **8,400 ways** to spell Kaitlyn. We know because we generated all of them.
 
 This tool takes a name, breaks it down into its phonetic components, and produces every conceivable spelling variation via Cartesian product. Some of them are real names. Some of them are prescription medications. All of them are someone's legal name in Utah. Probably.
 
@@ -24,7 +24,7 @@ py main.py <cluster> [--format <format>]
 
 `<cluster>` is the name of a `.cluster` file in the `clusters/` directory, without the extension. `--format` is optional and defaults to `github` (GitHub-flavored markdown table).
 ```bash
-py main.py kaitlyn                    # 3,840 variations, github markdown
+py main.py kaitlyn                    # 8,400 variations, github markdown
 py main.py mackenzie --format grid    # 240 variations, ASCII box table
 py main.py natasha --format csv       # 144 variations, comma separated
 py main.py rebecca --format json      # 144 variations, JSON dump
@@ -72,7 +72,7 @@ Each numbered position has an array of possible substitutions:
 
 ### The Math
 
-The generator takes the Cartesian product of all clusters. Meaning every possible combination of one option from each cluster: `3 × 5 × 2 × 2 × 2 × 2 × 4 × 2 × 2 = 3,840` unique spellings
+The generator takes the Cartesian product of all clusters. Meaning every possible combination of one option from each cluster: `3 × 5 × 2 × 2 × 2 × 2 × 5 × 2 × 2 = 8,400` unique spellings
 
 
 That's it. No machine learning. No AI. Just `itertools.product` and questionable life choices.
@@ -94,13 +94,17 @@ Cluster files are JSON and live in the `clusters/` directory with a `.cluster` e
 ```json
 {
     "pretty": "Kaitlyn",
-    "name": "[0][1]t[2]l[3][4]",
+    "name": "[0][1][2][3][4][5][6][7][8]",
     "clusters": [
-        ["k", "c"],
+        ["k", "c", "q"],
         ["a", "ai", "ae", "ei", "ay"],
+        ["", "gh"],
+        ["t", "tt"],
         ["e", ""],
-        ["i", "y"],
-        ["n", "nn"]
+        ["l", "ll"],
+        ["y", "e", "i", "í", "a"],
+        ["n", "nn"],
+        ["", "e"]
     ]
 }
 ```
@@ -146,7 +150,7 @@ This produces: Sean, Seann, Shaun, Shaunn, Shawn, Shawnn, Saun, Saunn, Sawn, Saw
 
 | Cluster | Variations | Highlight |
 |---------|-----------|-----------|
-| Kaitlyn | 3,840 | The original sin |
+| Kaitlyn | 8,400 | The original sin |
 | Jaiden | 24 | `jadynn` is a prescription medication |
 | Ashley | 96 | `aeschleigh` is an elf |
 | Megan | 48 | `maeghinn` is a Tolkien character |
