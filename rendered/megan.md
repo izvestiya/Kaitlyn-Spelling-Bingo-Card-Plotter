@@ -1,15 +1,99 @@
 # 48 Megans
 
-| Megan   | Meagan   | Meigan   | Maegan   |
-|---------|----------|----------|----------|
-| Megann  | Meagann  | Meigann  | Maegann  |
-| Megen   | Meagen   | Meigen   | Maegen   |
-| Megenn  | Meagenn  | Meigenn  | Maegenn  |
-| Megin   | Meagin   | Meigin   | Maegin   |
-| Meginn  | Meaginn  | Meiginn  | Maeginn  |
-| Meghan  | Meaghan  | Meighan  | Maeghan  |
-| Meghann | Meaghann | Meighann | Maeghann |
-| Meghen  | Meaghen  | Meighen  | Maeghen  |
-| Meghenn | Meaghenn | Meighenn | Maeghenn |
-| Meghin  | Meaghin  | Meighin  | Maeghin  |
-| Meghinn | Meaghinn | Meighinn | Maeghinn |
+| Megan     | Meagan     | Meigan     | Maegan     | Meygan     |
+|-----------|------------|------------|------------|------------|
+| Megane    | Meagane    | Meigane    | Maegane    | Meygane    |
+| Megann    | Meagann    | Meigann    | Maegann    | Meygann    |
+| Meganne   | Meaganne   | Meiganne   | Maeganne   | Meyganne   |
+| Megen     | Meagen     | Meigen     | Maegen     | Meygen     |
+| Megene    | Meagene    | Meigene    | Maegene    | Meygene    |
+| Megenn    | Meagenn    | Meigenn    | Maegenn    | Meygenn    |
+| Megenne   | Meagenne   | Meigenne   | Maegenne   | Meygenne   |
+| Megin     | Meagin     | Meigin     | Maegin     | Meygin     |
+| Megine    | Meagine    | Meigine    | Maegine    | Meygine    |
+| Meginn    | Meaginn    | Meiginn    | Maeginn    | Meyginn    |
+| Meginne   | Meaginne   | Meiginne   | Maeginne   | Meyginne   |
+| Megon     | Meagon     | Meigon     | Maegon     | Meygon     |
+| Megone    | Meagone    | Meigone    | Maegone    | Meygone    |
+| Megonn    | Meagonn    | Meigonn    | Maegonn    | Meygonn    |
+| Megonne   | Meagonne   | Meigonne   | Maegonne   | Meygonne   |
+| Megun     | Meagun     | Meigun     | Maegun     | Meygun     |
+| Megune    | Meagune    | Meigune    | Maegune    | Meygune    |
+| Megunn    | Meagunn    | Meigunn    | Maegunn    | Meygunn    |
+| Megunne   | Meagunne   | Meigunne   | Maegunne   | Meygunne   |
+| Megyn     | Meagyn     | Meigyn     | Maegyn     | Meygyn     |
+| Megyne    | Meagyne    | Meigyne    | Maegyne    | Meygyne    |
+| Megynn    | Meagynn    | Meigynn    | Maegynn    | Meygynn    |
+| Megynne   | Meagynne   | Meigynne   | Maegynne   | Meygynne   |
+| Meghan    | Meaghan    | Meighan    | Maeghan    | Meyghan    |
+| Meghane   | Meaghane   | Meighane   | Maeghane   | Meyghane   |
+| Meghann   | Meaghann   | Meighann   | Maeghann   | Meyghann   |
+| Meghanne  | Meaghanne  | Meighanne  | Maeghanne  | Meyghanne  |
+| Meghen    | Meaghen    | Meighen    | Maeghen    | Meyghen    |
+| Meghene   | Meaghene   | Meighene   | Maeghene   | Meyghene   |
+| Meghenn   | Meaghenn   | Meighenn   | Maeghenn   | Meyghenn   |
+| Meghenne  | Meaghenne  | Meighenne  | Maeghenne  | Meyghenne  |
+| Meghin    | Meaghin    | Meighin    | Maeghin    | Meyghin    |
+| Meghine   | Meaghine   | Meighine   | Maeghine   | Meyghine   |
+| Meghinn   | Meaghinn   | Meighinn   | Maeghinn   | Meyghinn   |
+| Meghinne  | Meaghinne  | Meighinne  | Maeghinne  | Meyghinne  |
+| Meghon    | Meaghon    | Meighon    | Maeghon    | Meyghon    |
+| Meghone   | Meaghone   | Meighone   | Maeghone   | Meyghone   |
+| Meghonn   | Meaghonn   | Meighonn   | Maeghonn   | Meyghonn   |
+| Meghonne  | Meaghonne  | Meighonne  | Maeghonne  | Meyghonne  |
+| Meghun    | Meaghun    | Meighun    | Maeghun    | Meyghun    |
+| Meghune   | Meaghune   | Meighune   | Maeghune   | Meyghune   |
+| Meghunn   | Meaghunn   | Meighunn   | Maeghunn   | Meyghunn   |
+| Meghunne  | Meaghunne  | Meighunne  | Maeghunne  | Meyghunne  |
+| Meghyn    | Meaghyn    | Meighyn    | Maeghyn    | Meyghyn    |
+| Meghyne   | Meaghyne   | Meighyne   | Maeghyne   | Meyghyne   |
+| Meghynn   | Meaghynn   | Meighynn   | Maeghynn   | Meyghynn   |
+| Meghynne  | Meaghynne  | Meighynne  | Maeghynne  | Meyghynne  |
+| Megghan   | Meagghan   | Meigghan   | Maegghan   | Meygghan   |
+| Megghane  | Meagghane  | Meigghane  | Maegghane  | Meygghane  |
+| Megghann  | Meagghann  | Meigghann  | Maegghann  | Meygghann  |
+| Megghanne | Meagghanne | Meigghanne | Maegghanne | Meygghanne |
+| Megghen   | Meagghen   | Meigghen   | Maegghen   | Meygghen   |
+| Megghene  | Meagghene  | Meigghene  | Maegghene  | Meygghene  |
+| Megghenn  | Meagghenn  | Meigghenn  | Maegghenn  | Meygghenn  |
+| Megghenne | Meagghenne | Meigghenne | Maegghenne | Meygghenne |
+| Megghin   | Meagghin   | Meigghin   | Maegghin   | Meygghin   |
+| Megghine  | Meagghine  | Meigghine  | Maegghine  | Meygghine  |
+| Megghinn  | Meagghinn  | Meigghinn  | Maegghinn  | Meygghinn  |
+| Megghinne | Meagghinne | Meigghinne | Maegghinne | Meygghinne |
+| Megghon   | Meagghon   | Meigghon   | Maegghon   | Meygghon   |
+| Megghone  | Meagghone  | Meigghone  | Maegghone  | Meygghone  |
+| Megghonn  | Meagghonn  | Meigghonn  | Maegghonn  | Meygghonn  |
+| Megghonne | Meagghonne | Meigghonne | Maegghonne | Meygghonne |
+| Megghun   | Meagghun   | Meigghun   | Maegghun   | Meygghun   |
+| Megghune  | Meagghune  | Meigghune  | Maegghune  | Meygghune  |
+| Megghunn  | Meagghunn  | Meigghunn  | Maegghunn  | Meygghunn  |
+| Megghunne | Meagghunne | Meigghunne | Maegghunne | Meygghunne |
+| Megghyn   | Meagghyn   | Meigghyn   | Maegghyn   | Meygghyn   |
+| Megghyne  | Meagghyne  | Meigghyne  | Maegghyne  | Meygghyne  |
+| Megghynn  | Meagghynn  | Meigghynn  | Maegghynn  | Meygghynn  |
+| Megghynne | Meagghynne | Meigghynne | Maegghynne | Meygghynne |
+| Meggan    | Meaggan    | Meiggan    | Maeggan    | Meyggan    |
+| Meggane   | Meaggane   | Meiggane   | Maeggane   | Meyggane   |
+| Meggann   | Meaggann   | Meiggann   | Maeggann   | Meyggann   |
+| Megganne  | Meagganne  | Meigganne  | Maegganne  | Meygganne  |
+| Meggen    | Meaggen    | Meiggen    | Maeggen    | Meyggen    |
+| Meggene   | Meaggene   | Meiggene   | Maeggene   | Meyggene   |
+| Meggenn   | Meaggenn   | Meiggenn   | Maeggenn   | Meyggenn   |
+| Meggenne  | Meaggenne  | Meiggenne  | Maeggenne  | Meyggenne  |
+| Meggin    | Meaggin    | Meiggin    | Maeggin    | Meyggin    |
+| Meggine   | Meaggine   | Meiggine   | Maeggine   | Meyggine   |
+| Megginn   | Meagginn   | Meigginn   | Maegginn   | Meygginn   |
+| Megginne  | Meagginne  | Meigginne  | Maegginne  | Meygginne  |
+| Meggon    | Meaggon    | Meiggon    | Maeggon    | Meyggon    |
+| Meggone   | Meaggone   | Meiggone   | Maeggone   | Meyggone   |
+| Meggonn   | Meaggonn   | Meiggonn   | Maeggonn   | Meyggonn   |
+| Meggonne  | Meaggonne  | Meiggonne  | Maeggonne  | Meyggonne  |
+| Meggun    | Meaggun    | Meiggun    | Maeggun    | Meyggun    |
+| Meggune   | Meaggune   | Meiggune   | Maeggune   | Meyggune   |
+| Meggunn   | Meaggunn   | Meiggunn   | Maeggunn   | Meyggunn   |
+| Meggunne  | Meaggunne  | Meiggunne  | Maeggunne  | Meyggunne  |
+| Meggyn    | Meaggyn    | Meiggyn    | Maeggyn    | Meyggyn    |
+| Meggyne   | Meaggyne   | Meiggyne   | Maeggyne   | Meyggyne   |
+| Meggynn   | Meaggynn   | Meiggynn   | Maeggynn   | Meyggynn   |
+| Meggynne  | Meaggynne  | Meiggynne  | Maeggynne  | Meyggynne  |
