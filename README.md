@@ -1,6 +1,6 @@
 # Kaitlyn Spelling Bingo Card Plotter
 
-There are **9,600 ways** to spell Kaitlyn. We know because we generated all of them.
+There are **43,200 ways** to spell Kaitlyn. We know because we generated all of them.
 
 This tool takes a name, breaks it down into its phonetic components, and produces every conceivable spelling variation via Cartesian product. Some of them are real names. Some of them are prescription medications. All of them are someone's legal name in Utah. Probably.
 
@@ -24,7 +24,7 @@ py main.py <cluster> [--format <format>]
 
 `<cluster>` is the name of a `.cluster` file in the `clusters/` directory, without the extension. `--format` is optional and defaults to `github` (GitHub-flavored markdown table).
 ```bash
-py main.py kaitlyn                    # 9,600 variations, github markdown
+py main.py kaitlyn                    # 43,200 variations, github markdown
 py main.py mackenzie --format grid    # 240 variations, ASCII box table
 py main.py natasha --format csv       # 144 variations, comma separated
 py main.py rebecca --format json      # 144 variations, JSON dump
@@ -72,7 +72,7 @@ Each numbered position has an array of possible substitutions:
 
 ### The Math
 
-The generator takes the Cartesian product of all clusters. Meaning every possible combination of one option from each cluster: `3 × 5 × 2 × 2 × 2 × 2 × 2 × 5 × 2 × 2 = 9,600` unique spellings
+The generator takes the Cartesian product of all clusters. Meaning every possible combination of one option from each cluster: `4 × 5 × 3 × 2 × 3 × 2 × 2 × 5 × 2 × 3 = 43,200` unique spellings
 
 
 That's it. No machine learning. No AI. Just `itertools.product` and questionable life choices.
