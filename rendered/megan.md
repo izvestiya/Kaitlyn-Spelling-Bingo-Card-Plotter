@@ -1,4 +1,4 @@
-# 48 Megans
+# 480 Megans
 
 | Megan     | Meagan     | Meigan     | Maegan     | Meygan     |
 |-----------|------------|------------|------------|------------|
