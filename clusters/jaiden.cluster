@@ -1,9 +1,10 @@
 {
     "pretty": "Jaiden",
-    "name": "j[0]d[1][2]",
+    "name": "j[0]d[1][2][3]",
     "clusters": [
-        ["a", "ai", "ay", "ae"],
+        ["a", "ai", "ay", "ae", "'"],
         ["e", "i", "y", "o", "ee", "ea", "ei", "ey", "u", "ue"],
-        ["n", "nn"]
+        ["n", "nn"],
+        ["", "e"]
     ]
 }

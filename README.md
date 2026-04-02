@@ -154,7 +154,7 @@ This produces: Sean, Seann, Shaun, Shaunn, Shawn, Shawnn, Saun, Saunn, Sawn, Saw
 | Cluster | Variations | Highlight |
 |---------|-----------|-----------|
 | Kaitlyn | 9,600 | The original sin |
-| Jaiden | 80 | `jadynn` is a prescription medication |
+| Jaiden | 100 | `jadynn` is a prescription medication |
 | Ashley | 96 | `aeschleigh` is an elf |
 | Megan | 480 | `maeghinn` is a Tolkien character |
 | Natasha | 144 | `nahtahschiah` is an incantation |
