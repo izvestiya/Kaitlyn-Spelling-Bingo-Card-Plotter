@@ -1,8 +1,9 @@
 {
     "pretty": "Mackenzie",
-    "name": "m[0][1][2]n[3][4]",
+    "name": "m[0][1][2][3]n[4][5]",
     "clusters": [
         ["a", "ac", "ae", "aec", "c", "ie", "iec", "ea", "eac"],
+        ["", "-", "'"],
         ["k", "c", "q", "C", "K", "Q", "x", "X"],
         ["e", "i", "ae", "ea"],
         ["z", "zz", "s", "ss", "sz", "x"],
