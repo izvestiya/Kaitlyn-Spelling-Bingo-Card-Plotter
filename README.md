@@ -161,6 +161,7 @@ This produces: Sean, Seann, Shaun, Shaunn, Shawn, Shawnn, Saun, Saunn, Sawn, Saw
 | Brittany | 240 | `bryttynni` is a Norse rune |
 | Mackenzie | 240 | `mckinsey` will bill you $500/hr |
 | Hailey | 35 | The only name with some restraint |
+| Beth | 192 | `bbheethhe` 9 letters to spell a 4-letter name. Hyperinflation: 125% |
 
 ## Output Formats
 
