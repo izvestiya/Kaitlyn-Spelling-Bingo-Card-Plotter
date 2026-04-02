@@ -1,0 +1,11 @@
+{
+    "pretty": "Destinee",
+    "name": "d[0]s[1]t[2][3]n[4]",
+    "clusters": [
+        ["e", "i", "a", "ae", "ea"],
+        ["", "s"],
+        ["", "t"],
+        ["i", "y", "e", "ey", "ee", "ie", "ae", "ea"],
+        ["ee", "ey", "y", "ie", "ye", "i", "e", "ea"]
+    ]
+}
