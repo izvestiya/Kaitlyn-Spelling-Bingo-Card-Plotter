@@ -1,51 +1,51 @@
-# 192 Beths
+# 384 Beths
 
-| Beth    | Bbheth    | Bbeth    | Bheth    |
-|---------|-----------|----------|----------|
-| Bethe   | Bbhethe   | Bbethe   | Bhethe   |
-| Bethh   | Bbhethh   | Bbethh   | Bhethh   |
-| Bethhe  | Bbhethhe  | Bbethhe  | Bhethhe  |
-| Bet     | Bbhet     | Bbet     | Bhet     |
-| Bete    | Bbhete    | Bbete    | Bhete    |
-| Bett    | Bbhett    | Bbett    | Bhett    |
-| Bette   | Bbhette   | Bbette   | Bhette   |
-| Beeth   | Bbheeth   | Bbeeth   | Bheeth   |
-| Beethe  | Bbheethe  | Bbeethe  | Bheethe  |
-| Beethh  | Bbheethh  | Bbeethh  | Bheethh  |
-| Beethhe | Bbheethhe | Bbeethhe | Bheethhe |
-| Beet    | Bbheet    | Bbeet    | Bheet    |
-| Beete   | Bbheete   | Bbeete   | Bheete   |
-| Beett   | Bbheett   | Bbeett   | Bheett   |
-| Beette  | Bbheette  | Bbeette  | Bheette  |
-| Beith   | Bbheith   | Bbeith   | Bheith   |
-| Beithe  | Bbheithe  | Bbeithe  | Bheithe  |
-| Beithh  | Bbheithh  | Bbeithh  | Bheithh  |
-| Beithhe | Bbheithhe | Bbeithhe | Bheithhe |
-| Beit    | Bbheit    | Bbeit    | Bheit    |
-| Beite   | Bbheite   | Bbeite   | Bheite   |
-| Beitt   | Bbheitt   | Bbeitt   | Bheitt   |
-| Beitte  | Bbheitte  | Bbeitte  | Bheitte  |
-| Beath   | Bbheath   | Bbeath   | Bheath   |
-| Beathe  | Bbheathe  | Bbeathe  | Bheathe  |
-| Beathh  | Bbheathh  | Bbeathh  | Bheathh  |
-| Beathhe | Bbheathhe | Bbeathhe | Bheathhe |
-| Beat    | Bbheat    | Bbeat    | Bheat    |
-| Beate   | Bbheate   | Bbeate   | Bheate   |
-| Beatt   | Bbheatt   | Bbeatt   | Bheatt   |
-| Beatte  | Bbheatte  | Bbeatte  | Bheatte  |
-| Baeth   | Bbhaeth   | Bbaeth   | Bhaeth   |
-| Baethe  | Bbhaethe  | Bbaethe  | Bhaethe  |
-| Baethh  | Bbhaethh  | Bbaethh  | Bhaethh  |
-| Baethhe | Bbhaethhe | Bbaethhe | Bhaethhe |
-| Baet    | Bbhaet    | Bbaet    | Bhaet    |
-| Baete   | Bbhaete   | Bbaete   | Bhaete   |
-| Baett   | Bbhaett   | Bbaett   | Bhaett   |
-| Baette  | Bbhaette  | Bbaette  | Bhaette  |
-| Bith    | Bbhith    | Bbith    | Bhith    |
-| Bithe   | Bbhithe   | Bbithe   | Bhithe   |
-| Bithh   | Bbhithh   | Bbithh   | Bhithh   |
-| Bithhe  | Bbhithhe  | Bbithhe  | Bhithhe  |
-| Bit     | Bbhit     | Bbit     | Bhit     |
-| Bite    | Bbhite    | Bbite    | Bhite    |
-| Bitt    | Bbhitt    | Bbitt    | Bhitt    |
-| Bitte   | Bbhitte   | Bbitte   | Bhitte   |
+| Beth    | Bbheth    | Bbeth    | Bheth    | B'eth    | B'beth    | B'bheth    | B'heth    |
+|---------|-----------|----------|----------|----------|-----------|------------|-----------|
+| Bethe   | Bbhethe   | Bbethe   | Bhethe   | B'ethe   | B'bethe   | B'bhethe   | B'hethe   |
+| Bethh   | Bbhethh   | Bbethh   | Bhethh   | B'ethh   | B'bethh   | B'bhethh   | B'hethh   |
+| Bethhe  | Bbhethhe  | Bbethhe  | Bhethhe  | B'ethhe  | B'bethhe  | B'bhethhe  | B'hethhe  |
+| Bet     | Bbhet     | Bbet     | Bhet     | B'et     | B'bet     | B'bhet     | B'het     |
+| Bete    | Bbhete    | Bbete    | Bhete    | B'ete    | B'bete    | B'bhete    | B'hete    |
+| Bett    | Bbhett    | Bbett    | Bhett    | B'ett    | B'bett    | B'bhett    | B'hett    |
+| Bette   | Bbhette   | Bbette   | Bhette   | B'ette   | B'bette   | B'bhette   | B'hette   |
+| Beeth   | Bbheeth   | Bbeeth   | Bheeth   | B'eeth   | B'beeth   | B'bheeth   | B'heeth   |
+| Beethe  | Bbheethe  | Bbeethe  | Bheethe  | B'eethe  | B'beethe  | B'bheethe  | B'heethe  |
+| Beethh  | Bbheethh  | Bbeethh  | Bheethh  | B'eethh  | B'beethh  | B'bheethh  | B'heethh  |
+| Beethhe | Bbheethhe | Bbeethhe | Bheethhe | B'eethhe | B'beethhe | B'bheethhe | B'heethhe |
+| Beet    | Bbheet    | Bbeet    | Bheet    | B'eet    | B'beet    | B'bheet    | B'heet    |
+| Beete   | Bbheete   | Bbeete   | Bheete   | B'eete   | B'beete   | B'bheete   | B'heete   |
+| Beett   | Bbheett   | Bbeett   | Bheett   | B'eett   | B'beett   | B'bheett   | B'heett   |
+| Beette  | Bbheette  | Bbeette  | Bheette  | B'eette  | B'beette  | B'bheette  | B'heette  |
+| Beith   | Bbheith   | Bbeith   | Bheith   | B'eith   | B'beith   | B'bheith   | B'heith   |
+| Beithe  | Bbheithe  | Bbeithe  | Bheithe  | B'eithe  | B'beithe  | B'bheithe  | B'heithe  |
+| Beithh  | Bbheithh  | Bbeithh  | Bheithh  | B'eithh  | B'beithh  | B'bheithh  | B'heithh  |
+| Beithhe | Bbheithhe | Bbeithhe | Bheithhe | B'eithhe | B'beithhe | B'bheithhe | B'heithhe |
+| Beit    | Bbheit    | Bbeit    | Bheit    | B'eit    | B'beit    | B'bheit    | B'heit    |
+| Beite   | Bbheite   | Bbeite   | Bheite   | B'eite   | B'beite   | B'bheite   | B'heite   |
+| Beitt   | Bbheitt   | Bbeitt   | Bheitt   | B'eitt   | B'beitt   | B'bheitt   | B'heitt   |
+| Beitte  | Bbheitte  | Bbeitte  | Bheitte  | B'eitte  | B'beitte  | B'bheitte  | B'heitte  |
+| Beath   | Bbheath   | Bbeath   | Bheath   | B'eath   | B'beath   | B'bheath   | B'heath   |
+| Beathe  | Bbheathe  | Bbeathe  | Bheathe  | B'eathe  | B'beathe  | B'bheathe  | B'heathe  |
+| Beathh  | Bbheathh  | Bbeathh  | Bheathh  | B'eathh  | B'beathh  | B'bheathh  | B'heathh  |
+| Beathhe | Bbheathhe | Bbeathhe | Bheathhe | B'eathhe | B'beathhe | B'bheathhe | B'heathhe |
+| Beat    | Bbheat    | Bbeat    | Bheat    | B'eat    | B'beat    | B'bheat    | B'heat    |
+| Beate   | Bbheate   | Bbeate   | Bheate   | B'eate   | B'beate   | B'bheate   | B'heate   |
+| Beatt   | Bbheatt   | Bbeatt   | Bheatt   | B'eatt   | B'beatt   | B'bheatt   | B'heatt   |
+| Beatte  | Bbheatte  | Bbeatte  | Bheatte  | B'eatte  | B'beatte  | B'bheatte  | B'heatte  |
+| Baeth   | Bbhaeth   | Bbaeth   | Bhaeth   | B'aeth   | B'baeth   | B'bhaeth   | B'haeth   |
+| Baethe  | Bbhaethe  | Bbaethe  | Bhaethe  | B'aethe  | B'baethe  | B'bhaethe  | B'haethe  |
+| Baethh  | Bbhaethh  | Bbaethh  | Bhaethh  | B'aethh  | B'baethh  | B'bhaethh  | B'haethh  |
+| Baethhe | Bbhaethhe | Bbaethhe | Bhaethhe | B'aethhe | B'baethhe | B'bhaethhe | B'haethhe |
+| Baet    | Bbhaet    | Bbaet    | Bhaet    | B'aet    | B'baet    | B'bhaet    | B'haet    |
+| Baete   | Bbhaete   | Bbaete   | Bhaete   | B'aete   | B'baete   | B'bhaete   | B'haete   |
+| Baett   | Bbhaett   | Bbaett   | Bhaett   | B'aett   | B'baett   | B'bhaett   | B'haett   |
+| Baette  | Bbhaette  | Bbaette  | Bhaette  | B'aette  | B'baette  | B'bhaette  | B'haette  |
+| Bith    | Bbhith    | Bbith    | Bhith    | B'ith    | B'bith    | B'bhith    | B'hith    |
+| Bithe   | Bbhithe   | Bbithe   | Bhithe   | B'ithe   | B'bithe   | B'bhithe   | B'hithe   |
+| Bithh   | Bbhithh   | Bbithh   | Bhithh   | B'ithh   | B'bithh   | B'bhithh   | B'hithh   |
+| Bithhe  | Bbhithhe  | Bbithhe  | Bhithhe  | B'ithhe  | B'bithhe  | B'bhithhe  | B'hithhe  |
+| Bit     | Bbhit     | Bbit     | Bhit     | B'it     | B'bit     | B'bhit     | B'hit     |
+| Bite    | Bbhite    | Bbite    | Bhite    | B'ite    | B'bite    | B'bhite    | B'hite    |
+| Bitt    | Bbhitt    | Bbitt    | Bhitt    | B'itt    | B'bitt    | B'bhitt    | B'hitt    |
+| Bitte   | Bbhitte   | Bbitte   | Bhitte   | B'itte   | B'bitte   | B'bhitte   | B'hitte   |

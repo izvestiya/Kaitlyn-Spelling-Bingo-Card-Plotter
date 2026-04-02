@@ -163,7 +163,7 @@ This produces: Sean, Seann, Shaun, Shaunn, Shawn, Shawnn, Saun, Saunn, Sawn, Saw
 | Brittany | 240 | `bryttynni` is a Norse rune |
 | Mackenzie | 41,472 | `MiecXeanzzeie` is an elder god that bills $500/hr |
 | Hailey | 35 | The only name with some restraint |
-| Beth | 192 | `bbheethhe` 9 letters to spell a 4-letter name. Hyperinflation: 125% |
+| Beth | 384 | `bbheethhe` 9 letters to spell a 4-letter name. Hyperinflation: 125% |
 | KVIIIlyn | 960 | `CVIIIllynne` is it a name or a CPU register? |
 | Destinee | 1,280 | `Deassttienye` is a 12th century Scottish estate where three earls were poisoned |
 | Chasity | 19,200 | `Tcheizzietye` is a sneeze transliterated from Cyrillic |
