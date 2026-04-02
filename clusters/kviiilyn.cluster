@@ -1,0 +1,15 @@
+{
+    "pretty": "KVIIIlyn (Silly Spellings)",
+    "name": "[0][1][2][3][4][5][6][7]",
+    "clusters": [
+        ["k", "c", "q"],
+        ["VIII", "8"],
+        ["", "e"],
+        ["", "-"],
+        ["l", "ll"],
+        ["y", "e", "i", "í", "a"],
+        ["n", "nn"],
+        ["", "e"]
+    ],
+    "capitalize": "first"
+}
