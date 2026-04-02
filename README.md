@@ -166,6 +166,7 @@ This produces: Sean, Seann, Shaun, Shaunn, Shawn, Shawnn, Saun, Saunn, Sawn, Saw
 | Beth | 192 | `bbheethhe` 9 letters to spell a 4-letter name. Hyperinflation: 125% |
 | KVIIIlyn | 960 | `CVIIIllynne` is it a name or a CPU register? |
 | Destinee | 1,280 | `Deassttienye` is a 12th century Scottish estate where three earls were poisoned |
+| Chasity | 19,200 | `Tcheizzietye` is a sneeze transliterated from Cyrillic |
 
 ## Output Formats
 

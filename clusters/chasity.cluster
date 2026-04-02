@@ -1,0 +1,12 @@
+{
+    "pretty": "Chasity",
+    "name": "[0][1][2][3][4][5]",
+    "clusters": [
+        ["ch", "c", "k", "kh", "q", "tch"],
+        ["a", "ae", "ai", "ay", "ei"],
+        ["s", "ss", "c", "z", "zz"],
+        ["i", "y", "e", "ee", "ie", "ey", "ea", "ae"],
+        ["t", "d"],
+        ["y", "i", "ie", "ey", "ee", "e", "ye", "ea"]
+    ]
+}
