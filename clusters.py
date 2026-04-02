@@ -15,18 +15,21 @@ def get_cluster(cluster_name):
     with open(cluster_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def get_combos(cluster, dedub = False, capitalize = True):
+def get_combos(cluster, dedub = False):
     # Generate all combinations of the letter-swapping arrays
     combos = product(*cluster["clusters"])
 
     # Generate the names based on the combinations
+    capitalize = cluster.get("capitalize", "first").lower()
     itr = 0
     names = []
     for combo in combos:
         result = cluster["name"]
         for i, part in enumerate(combo):
             result = result.replace(f"[{i}]", part)
-        if capitalize:
+        if capitalize == "first":
+            result = result[0].upper() + result[1:] 
+        elif capitalize == "strict":
             result = result.capitalize()
         names.append(result)
         itr += 1

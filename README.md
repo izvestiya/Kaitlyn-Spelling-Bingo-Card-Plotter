@@ -95,6 +95,7 @@ Cluster files are JSON and live in the `clusters/` directory with a `.cluster` e
 {
     "pretty": "Kaitlyn",
     "name": "[0][1][2][3][4][5][6][7][8][9]",
+    "capitalize": "first",
     "clusters": [
         ["k", "c", "q"],
         ["a", "ai", "ae", "ei", "ay"],
@@ -114,6 +115,7 @@ Cluster files are JSON and live in the `clusters/` directory with a `.cluster` e
 |-------|------|-------------|
 | `pretty` | string | The canonical display name. Used in headers and output metadata. |
 | `name` | string | The template string. Numbered indices `[0]`, `[1]`, etc. are replaced by cluster values. Literal characters are kept as-is. |
+| `capitalize` | string | Capitalization mode. `"first"` uppercases the first letter only (default). `"strict"` uppercases the first letter and lowercases everything else. `"none"` disables capitalization entirely. |
 | `clusters` | array of arrays | Each inner array corresponds to a numbered index in the template. The generator produces every combination across all arrays. |
 
 ### Template Rules
